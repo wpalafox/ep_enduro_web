@@ -1,0 +1,88 @@
+
+.center{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #282c34;
+  padding-bottom: 10%;
+  
+
+
+}
+
+.contact-us-image{
+  padding-bottom: 10%;
+}
+
+.contact-us-image{
+  width: 100vw;
+  height: auto;
+}
+
+.victory {
+    position: relative;
+    font-family: 'Permanent Marker', cursive;
+    font-variant:small-caps;
+    font-size: 250%;
+    
+   
+    background-image: -webkit-linear-gradient(#FF0FF8 0%,  #F9F9F7 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+    -webkit-filter: drop-shadow(2px 2px 20px #f008b7);
+  }
+
+  textarea{
+    height: 200px;
+  }
+
+form {
+    padding-top: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    background-color: black;
+    padding-right: 5%;
+    border: 2px solid rgba(161, 127, 26);
+    border-radius: 25px;
+   
+  
+ 
+    font-size: calc(10px + 2vmin);
+    color: #E1D9D1;
+    
+    
+
+
+
+}
+
+.col-sm-3{
+  padding: 5%;
+}
+
+label{
+  margin-right: 5%;
+}
+
+
+
+
+.fa-facebook{
+    color: rgb(66, 103, 178) ;
+
+
+
+}
+
+.fa-instagram{
+    color: rgb(253, 29, 29) ;
+
+
+
+}

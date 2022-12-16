@@ -1,0 +1,47 @@
+.logo-image {
+    max-width: 110px; /* You can set the dimensions to whatever you want */
+    
+    object-fit: cover;
+    padding-top: 10%;
+}
+
+.footer-enduro{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+
+#copyright{
+    display: flex;
+    align-items: right;
+    font-size: 100%;
+    color: tomato;
+}
+
+#bottom-lines{
+    padding-top: 10%;
+}
+
+#websites-elpaso{
+    font-family: "rock_biter";
+    font-size: 100%;
+    display: flex;
+    align-items: right;
+    color: #00FFFF;
+}
+
+.merol-racing{
+    max-width: 15vw;
+    max-width: 15vh;
+  }
+
+
+#copyright{
+
+        font-family: "rock_biter";
+  
+}

@@ -1,0 +1,223 @@
+.btn-danger{
+  color: #E1D9D1 ;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.background_black{
+  background-color: #282c34;
+
+}
+
+.App {
+  text-align: center;
+  background-color: #282c34;
+
+ 
+  
+}
+
+.image-item{
+  width:300px;
+  margin: 10px;
+}
+
+#home-page{
+  background-color: #0c0404;
+  border: 2px solid rgba(161, 127, 26);
+  border-radius: 25px;
+
+}
+
+.registration-header{
+  margin: 2%;
+  font-family: 'rock_biter';
+  color: #E1D9D1  ;
+  font-size: 200%;
+  background-color: #0c0404;
+  border: 2px solid rgba(161, 127, 26);
+  border-radius: 25px;
+
+}
+
+
+#register-header{
+  margin: 2%;
+  font-family: 'rock_biter';
+  color: #E1D9D1  ;
+  font-size: 200%;
+  background-color: #0c0404;
+  border: 2px solid rgba(161, 127, 26);
+  border-radius: 25px;
+
+}
+
+.rockbiter-race{
+  font-family: 'rock_biter';
+  color: #E1D9D1 ;
+  
+}
+
+
+.results-line{
+  list-style-type: none;
+  padding-bottom: 2%;
+}
+
+
+.introduction{
+  text-align: left;
+}
+.App-link{
+  text-align: left;
+}
+
+.video-player{
+  width: 100%;
+  display: 'flex';
+  justify-content: 'center';
+  align-items: 'center';
+  margin-bottom: 2%;
+  
+ 
+
+}
+
+#home-image{
+  width: 100%;
+	height: auto;
+}
+
+#hero-image{
+  width: 100vw;
+  height: auto;
+ 
+
+}
+
+
+.awesome-slider-div{
+  
+  padding-top: 10%;
+  background-color: #282c34;
+  padding-bottom: 10%;
+ 
+  
+}
+
+.seriesheader{
+  font-weight: bold;
+  text-align: left;
+  font-family: 'north-face';
+  color: goldenrod;
+}
+
+li{
+  text-align: left;
+  
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: pulse_animation infinite 20s linear;
+  }
+}
+
+.wrapper{
+ 
+  padding-left: 0pt
+  
+
+}
+
+.background-news{
+  background-color: #282c34;
+  padding-bottom: 5%;
+}
+
+#news-list{
+  border: 2px solid rgba(161, 127, 26);
+  border-radius: 25px;
+  
+
+}
+
+.news{
+  font-size: 400%;
+}
+
+p{
+  color:#E1D9D1 ;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding-top: 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #E1D9D1 ;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.black-box{
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-bottom: 2%;
+  background-color: black;
+  border: 2px solid rgba(161, 127, 26);
+  border-radius: 25px;
+}
+
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulse_animation {
+  0% { transform: scale(1); }
+  30% { transform: scale(1); }
+  40% { transform: scale(1.08); }
+  50% { transform: scale(1); }
+  60% { transform: scale(1); }
+  70% { transform: scale(1.05); }
+  80% { transform: scale(1); }
+  100% { transform: scale(1); }
+}
+
+.pulse {
+  animation-name: pulse_animation;
+  animation-duration: 2500ms;
+  transform-origin:70% 70%;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Mr+Dafoe);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:900);
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+@import url(https://fonts.googleapis.com/css?family=Candal);
+
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+
+@import url(https://fonts.googleapis.com/css?family=Monoton);

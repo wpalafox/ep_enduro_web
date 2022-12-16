@@ -199,7 +199,7 @@ export default function Footer() {
 
 
                 <div className="col-sm-6">
-                    <p id='websites-elpaso'>Designed and Developed by Websites El Paso LLC.          </p>
+                    <p id='websites-elpaso'>Designed and Developed by Will Palafox </p>
                 </div>
 
                 

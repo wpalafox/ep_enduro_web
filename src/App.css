@@ -179,6 +179,11 @@ p{
 }
 
 
+#player{
+  max-width: 100vw !important; 
+
+}
+
 
 
 .App-link {

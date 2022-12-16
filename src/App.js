@@ -63,9 +63,9 @@ function App() {
           
           
           <header className="App-header">
-          <div className='black-box'>
-          <ReactPlayer className="video-player" url='https://www.youtube.com/watch?v=ZDM3sETGeMU' />
-          </div>
+              <div className='black-box'>
+                  <ReactPlayer id="player" className="video-player" url='https://www.youtube.com/watch?v=ZDM3sETGeMU' />
+              </div>
             <div id='home-page' className='container'>
               
             

@@ -107,7 +107,7 @@ function App() {
                         
 
                         <li className="rockbiter-race">MONKS | 12/18/2022  </li>
-                        <li className='results-line'><a href="https://www.bikereg.com/ependuro4" class="btn btn-danger" role="button"><b>REGISTER</b></a>    </li>
+                        <li className='results-line'><a href="/monks_2022" class="btn btn-info" role="button"><b>RESULTS</b></a>    </li>
 
                         
                     

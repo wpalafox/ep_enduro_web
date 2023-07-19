@@ -126,7 +126,7 @@ export default function Footer() {
                 </div>
 
                  <div className="col-6">
-                    <a href="https://gabrielsperezlaw.com/"  target="_blank"><img src={Gabe} className="logo-image" alt="Logo" /></a>
+                    <a href="https://gabrielsperezlaw.com/"  target="_blank"><img  src={Gabe} className="logo-image" alt="Logo" /></a>
                 </div>
            
             </div>
